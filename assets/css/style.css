@@ -316,10 +316,10 @@ section {
         content: 'Web Designer';
     }
     61%, 80% {
-        content: 'blabla';
+        content: 'Software Engineer';
     }
     81%, 100% {
-        content: 'hehehe';
+        content: 'Software Developer';
     }
 }
 
@@ -347,6 +347,9 @@ section {
     
     .home .content p span {
         font-size: 2.2rem;
+    }
+    .btn {
+        margin-bottom: 1rem;
     }
 }
 
