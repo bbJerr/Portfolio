@@ -438,7 +438,7 @@ section {
 
 .skills .container .bar .progress-bar {
     height: 20px;
-    background-color: var(--main-color);
+    background-color: #7aab75;
     color: white;
     text-align: center;
     line-height: 20px;
