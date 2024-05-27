@@ -379,7 +379,9 @@ section {
 /* Skills Section*/
 
 .skills {
-    background: var(--bg-color);  
+    background: var(--bg-color);
+    margin: 50px 0 50px 0;
+    padding: 0;  
 }
 
 .skills .container {
@@ -390,9 +392,6 @@ section {
     width: 80%;
     margin: auto;
     margin-top: 2rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
 .skills .container .row {
