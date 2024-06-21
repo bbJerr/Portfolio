@@ -546,8 +546,8 @@ section {
     z-index: 1;
     left: 30px;
     border: medium solid var(--main-color);
-    border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent var(--main-color);
+    border-width: 10px 10px 10px 0;
+    border-color: transparent var(--main-color) transparent transparent;
 }
 
 .education .right::after {
